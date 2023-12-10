@@ -1,0 +1,10 @@
+nectarine
+tangerine
+guava
+lychee
+cantaloupe
+pomelo
+kumquat
+sapodilla
+persimmon
+tamarind

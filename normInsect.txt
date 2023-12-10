@@ -1,0 +1,10 @@
+fly
+mosquito
+bee
+wasp
+ant
+ladybug
+dragonfly
+cockroach
+beetle
+grasshopper
